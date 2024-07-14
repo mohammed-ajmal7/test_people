@@ -1,0 +1,4 @@
+train: D:\BE-CSE\Count-the-number-of-people-currently-in-the-room\train\images
+val: D:\BE-CSE\Count-the-number-of-people-currently-in-the-room\valid\images
+nc: 1
+names: ["person"]
